@@ -152,7 +152,7 @@ A classic Java web app with Admin & Customer portals built using MVC + DAO patte
 > If you're hiring or want to collaborate on a Java/Spring Boot project, let's talk!
 
 📧 [pradeepbodduru5678@gmail.com](mailto:pradeepbodduru5678@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/Pradeep-5678)
+🔗 [LinkedIn](https://linkedin.com/in/pradeep-bodduru) · [GitHub](https://github.com/Pradeep-5678)
 
 ---
 
