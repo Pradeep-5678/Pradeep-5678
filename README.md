@@ -6,7 +6,7 @@
 
 *Building robust backends, clean REST APIs, and scalable Java applications — one commit at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pradeep-bodduru-03ab751ba)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradeep-5678)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepbodduru5678@gmail.com)
 [![Location](https://img.shields.io/badge/Hyderabad,%20India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
